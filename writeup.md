@@ -149,7 +149,7 @@ The results of the prediction are listed in the table below:
 | Image			        |     Prediction	        					| 
 |:---------------------:|:---------------------------------------------:| 
 | Speed limit 50  		| Speed limit 50     							| 
-| Go straight or left  	| Ahead only									|
+| Go straight or left  	| Speed limit 30								|
 | Dangerous curve right	| Dangerous curve right							|
 | Priority road	      	| Priority road					 				|
 | Yield     			| Yield              							|
